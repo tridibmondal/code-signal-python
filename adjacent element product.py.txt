@@ -1,3 +1,4 @@
+first program
 adjacent element product
 
 def adjacentElementsProduct(inputArray):
